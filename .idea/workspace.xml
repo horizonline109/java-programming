@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d528c6f6-f1a1-4a59-b679-bcbcddaf0b5c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1ouOPZ0NctAUbJgXgCggFdZUPXg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="solo_practice" />
+      <recent name="sol" />
+      <recent name="day18_conditions_practice_strings_intro" />
+    </key>
+    <key name="MoveInnerDialog.RECENTS_KEY">
+      <recent name="day39_wrapper_classes" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.BankingInformation">
+    <configuration name="BankingInformation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day46_encapsulation.BankingInformation" />
+      <module name="java-programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day46_encapsulation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CoffeeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day45_oop.CoffeeTest" />
+      <module name="java-programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day45_oop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComparingStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day45_oop.ComparingStrings" />
+      <module name="java-programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day45_oop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Dealership" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day46_encapsulation.Dealership" />
+      <module name="java-programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day46_encapsulation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodOverloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day37_methods_overloading.MethodOverloading" />
+      <module name="java-programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day37_methods_overloading.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BankingInformation" />
+        <item itemvalue="Application.Dealership" />
+        <item itemvalue="Application.MethodOverloading" />
+        <item itemvalue="Application.ComparingStrings" />
+        <item itemvalue="Application.CoffeeTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d528c6f6-f1a1-4a59-b679-bcbcddaf0b5c" name="Default Changelist" comment="" />
+      <created>1614132991960</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614132991960</updated>
+      <workItem from="1614132996808" duration="106260000" />
+      <workItem from="1615160240166" duration="24713000" />
+      <workItem from="1615352860320" duration="84886000" />
+      <workItem from="1616337097149" duration="18766000" />
+      <workItem from="1616454059628" duration="37882000" />
+      <workItem from="1616854783455" duration="77328000" />
+      <workItem from="1617750254182" duration="36398000" />
+      <workItem from="1618074184137" duration="24068000" />
+      <workItem from="1618271125851" duration="5578000" />
+      <workItem from="1618349847284" duration="8829000" />
+      <workItem from="1618441844409" duration="2835000" />
+      <workItem from="1618609762676" duration="463000" />
+      <workItem from="1618610330268" duration="517000" />
+      <workItem from="1618613075987" duration="30791000" />
+      <workItem from="1618875390892" duration="13955000" />
+      <workItem from="1618962454110" duration="6794000" />
+      <workItem from="1619099746907" duration="498000" />
+      <workItem from="1619293350131" duration="236000" />
+      <workItem from="1619479619756" duration="7001000" />
+      <workItem from="1619703848036" duration="576000" />
+      <workItem from="1619879375886" duration="14992000" />
+      <workItem from="1620169069456" duration="235000" />
+      <workItem from="1620169461070" duration="10708000" />
+      <workItem from="1620482443127" duration="15205000" />
+      <workItem from="1620660254850" duration="8557000" />
+      <workItem from="1621087651201" duration="9223000" />
+      <workItem from="1621199254093" duration="10380000" />
+      <workItem from="1621388526755" duration="1687000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day13_conditional_statements/IfWithBooleanVariable.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day14_multi_branch_if_statements/YesOrNo.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day14_multi_branch_if_statements/MultiBranchIfStatement.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day14_multi_branch_if_statements/DayActivity.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day14_multi_branch_if_statements/CalculatorV1.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day14_multi_branch_if_statements/CalculatorV2.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day25_loops/PrintStars.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day27_loops/IndexOf.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day28_loops/RandomPassword.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day28_loops/FindUniqueChars.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day27_loops/Neighbors.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/solo_practice/ReplitSMS.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/solo_practice/ReplitXorX.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day29_arrays/NestedForLoop.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day29_arrays/NestedForLoop.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day29_arrays/CountCharsNestedLoop.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/solo_practice/ReplitEmail2.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/solo_practice/ReplitHas55.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day32_arrays_split/MaxMinPrice.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day32_arrays_split/SentenceSplit.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/solo_practice/ReplitLoopsCountTriples.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day16_switch_ternary/AdaireApartments.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day16_switch_ternary/TernaryIntro.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/solo_practice/ArraysPractice.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/solo_practice/PalindromeReplit.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day40_b/countLetters.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/solo_practice/ReplitWordLengthMethod.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day42_arraylist/MethodsWithList.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/solo_practice/ReplitRepeatAll.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/day34_void_methods/FirstMethod.java</url>
+          <line>4</line>
+          <properties class="day34_void_methods.FirstMethod" method="findSaim">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/day43_list_custom_classes/MethodWithListReturn.java</url>
+          <line>43</line>
+          <properties class="day43_list_custom_classes.MethodWithListReturn" method="getRandomList">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/java_programming$ReplitEmail2.ic" NAME="ReplitEmail2 Coverage Results" MODIFIED="1617995577779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>solo_practice.*</FILTER>
+    </SUITE>
+  </component>
+</project>
