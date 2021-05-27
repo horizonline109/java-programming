@@ -8,5 +8,13 @@ public class BankingInformation {
         account.setAccountHolder("Mary Barfield");
         account.getType();
         System.out.println(account.toString());
+
+        String st = "Group-9";
+        String altst = "Group-9";
+        st = st.concat(" is great!");
+        System.out.println(st);
+        System.out.println(altst);
+
+
     }
 }
